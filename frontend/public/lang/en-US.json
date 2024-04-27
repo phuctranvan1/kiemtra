@@ -1,0 +1,17 @@
+{
+    "dashboard": "dashboard",
+    "user": "user",
+    "account": "account",
+    "customer": "customer",
+    "customerSource": "customer source",
+    "chat": "chat",
+    "location": "location",
+    "setting": "setting",
+    "product": "product",
+    "order": "order",
+    "support": "support",
+    "interaction": "interaction history",
+    "schedule": "schedule",
+    "project": "project",
+    "phoneCall" : "phone call"
+}
