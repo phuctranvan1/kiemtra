@@ -1,11 +1,3 @@
-# Giới thiệu
-- ĐÂY LÀ PROJECT DÙNG ĐỂ KIỂM TRA
-
-
-# Yêu cầu
-1. <img src="https://dotnet.microsoft.com/favicon.ico" style="height: 20px; width:20px;"/> [.Net6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) > 6.0.28
-1. <img src="https://nodejs.org/static/images/logo-hexagon-card.png" style="height: 20px; width:20px;"/> [Nodejs](https://nodejs.org/en/download) > 20.10.0
-
 # Hướng dẫn debug
 
 ### Đối với Microsoft Visual Studio 2022
